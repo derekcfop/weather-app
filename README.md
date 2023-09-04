@@ -2,7 +2,7 @@
 
 A web application that allows users to check the weather forecast for a specific location using the OpenWeatherMap API. 
 
-![scrrenshot](https://imgur.com/gallery/tdDkgv8)
+![screenshot](https://i.imgur.com/2Uw9hWH.gif)
 
 ## Technologies Used
 
